@@ -1,0 +1,1 @@
+{"workers": [{"worker_id": 1, "slots": 3, "port": 7000}, {"worker_id": 2, "slots": 3, "port": 7001}, {"worker_id": 3, "slots": 5, "port": 7002}, {"worker_id": 4, "slots": 4, "port": 7003}]}
