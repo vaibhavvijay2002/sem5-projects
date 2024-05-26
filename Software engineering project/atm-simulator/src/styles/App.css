@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+html, body {
+    height: 100%;
+  }
+
+  *{
+    background-color: #38b6ff;
+    font-family: Pattaya;
+  }
+
+.main-box{
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: black;
+  height: 44.5rem;
+  border-radius: 1rem;
+}
+
+.inner-box{
+  background-color: black;
+  height:34rem;
+  width: 78rem;
+}
+.shift-logo{
+  height: 4rem;
+  width: 17rem;
+  background-color:inherit;
+  margin-left: 4rem;
+}
+.logo-lane{
+  background-color: black;
+  padding: 0%;
+  margin: 0%;
+  border-color: black;
+}
+
+.one-row-gap{
+  background-color: black;
+  height: 6rem;
+}
+
+.ser-button{
+  position:static;
+  margin-top: 1.5rem;
+  font-size: 2.5rem;
+  background-color: black;
+  font-family: Pattaya;
+}
+.left-sbutton{
+  background-color: #38b6ff;
+  height: 5rem;
+  width: 25rem;
+  border-bottom-right-radius: 3rem;
+  border-top-right-radius: 3rem;
+  border: 0ch;
+  margin-left: -2rem;
+
+}
+.right-sbutton{
+  background-color: #38b6ff;
+  height: 5rem;
+  width: 25rem;
+  margin-left: 8rem;
+  border-bottom-left-radius: 3rem;
+  border-top-left-radius: 3rem;
+  border: 0ch;
+}
+
+.container{
+  border-radius: 1rem;
+}
+
+.memberpic{
+  background-color: black;
+  height: 10rem;
+  width: 10rem;
+  border-radius: 5rem;
+}
+
+.team{
+  background-color: black;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.memberdes{
+  background-color: black;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.membername{
+  background-color: black;
+  font-family: Pattaya;
+  color: #fff;
+  font-size: 2rem;
+}
+.teammember{
+  background-color: black;
+  margin-top: .5rem;
+  margin-left: .5rem;
+}
+
+
+
+.input-label{
+  background-color: black;
+  color: aliceblue;
+  margin-left: 6rem;
+  font-size: 1.5rem;
+}
+
+.input-box{
+  border: #38b6ff 3px solid;
+  margin-left: 6rem;
+  color: black;
+  padding: 0.5rem;
+  width: 30rem;
+}
+
+.Tagline{
+  background-color: black;
+  color: #38b6ff;
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 3rem;
+}
+
+.disp-data{
+  
+}
+
+.input-deposit{
+  margin: 5px;
+  align-items: center;
+}
+
+.Tagline-Top{
+  color: aliceblue;
+}
+
+.prodesc{
+  background-color: black;
+  color: #38b6ff;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.team-tag{
+  margin-top: 0rem;
+}
+
+.acinfo{
+  color: aliceblue;
+  background-color: black;
+  margin-left: 2rem;
+}
